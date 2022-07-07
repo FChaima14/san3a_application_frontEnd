@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1afba4b.chunk.css",
+    "main.js": "/static/js/main.145c97fc.chunk.js",
+    "main.js.map": "/static/js/main.145c97fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3107b100.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3107b100.js.map",
+    "static/js/2.8528baaa.chunk.js": "/static/js/2.8528baaa.chunk.js",
+    "static/js/2.8528baaa.chunk.js.map": "/static/js/2.8528baaa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a1afba4b.chunk.css.map": "/static/css/main.a1afba4b.chunk.css.map",
+    "static/js/2.8528baaa.chunk.js.LICENSE.txt": "/static/js/2.8528baaa.chunk.js.LICENSE.txt",
+    "static/media/barber.7e50f355.jpg": "/static/media/barber.7e50f355.jpg",
+    "static/media/builder.d90e59c5.jpg": "/static/media/builder.d90e59c5.jpg",
+    "static/media/cake.efc2252b.jpg": "/static/media/cake.efc2252b.jpg",
+    "static/media/co_worker.c67c052f.svg": "/static/media/co_worker.c67c052f.svg",
+    "static/media/hair.15442a42.jpg": "/static/media/hair.15442a42.jpg",
+    "static/media/hero.f1ad0652.jpg": "/static/media/hero.f1ad0652.jpg",
+    "static/media/heroSection.db6342c7.jpg": "/static/media/heroSection.db6342c7.jpg",
+    "static/media/plomber.e217b637.jpg": "/static/media/plomber.e217b637.jpg",
+    "static/media/tailor.4fb4d9fc.jpg": "/static/media/tailor.4fb4d9fc.jpg",
+    "static/media/workerr.f0a46e23.svg": "/static/media/workerr.f0a46e23.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3107b100.js",
+    "static/js/2.8528baaa.chunk.js",
+    "static/css/main.a1afba4b.chunk.css",
+    "static/js/main.145c97fc.chunk.js"
+  ]
+}
